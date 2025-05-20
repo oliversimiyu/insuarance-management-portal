@@ -25,7 +25,15 @@ A comprehensive insurance management portal built with React.js that allows insu
 
 ## Screenshots
 
-*(Screenshots would be added here in a production README)*
+![image](https://github.com/user-attachments/assets/9e508243-a918-45b0-8f00-41ebc3223d90)
+![image](https://github.com/user-attachments/assets/a1874f4d-a8a2-4852-9cd4-96b69d7dfa58)
+![image](https://github.com/user-attachments/assets/1c43c71d-3f93-4447-bfe4-1596a45203b0)
+![image](https://github.com/user-attachments/assets/d384284d-5307-4caa-a42e-ae19baa81a39)
+![image](https://github.com/user-attachments/assets/7603070f-0dd6-49ac-889f-d9faa2863afe)
+![image](https://github.com/user-attachments/assets/66ea8475-3eba-4545-80c2-95617984e40f)
+![image](https://github.com/user-attachments/assets/fe5d9b98-34d8-4737-a085-83d5490aaee3)
+![image](https://github.com/user-attachments/assets/0930e7ad-951f-4044-900d-0f789806a9d9)
+
 
 ## Technology Stack
 
